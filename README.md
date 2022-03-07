@@ -1,6 +1,6 @@
 # DCGAN
 
-This was Unviersity Coursework that has been preovously submitted and shows my learning as obviously much fo this can be improved. All worked was udnertaken with a partner and the coursework was submitted together.
+This was Unviersity Coursework that has been preovously submitted and shows my learning as obviously much of this can be improved. All worked was udnertaken with a partner and the coursework was submitted together.
 
 The MNIST dataset of hadn written digits was used and can eb found below:
 http://yann.lecun.com/exdb/mnist/
